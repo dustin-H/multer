@@ -1,3 +1,10 @@
+# Deprecated
+Multer has a new custom storage api. So this fork isn't necessary anymore.
+
+Use this:
+* [expressjs/multer#custom-storage-engine](https://github.com/expressjs/multer#custom-storage-engine)
+* [dustin-H/multer-storage-pkgcloud](https://github.com/dustin-H/multer-storage-pkgcloud)
+
 # Note:
 This is a fork of expressjs/multer to upload files into from pkgcloud/pkgcloud supported Cloud Object Storages.
 
